@@ -6,8 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
-# PyCharm
+/.venv
 
+# PyCharm
 .idea/
 
 # Distribution / packaging
